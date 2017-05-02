@@ -1,4 +1,4 @@
-# DMSN_CW_Part2
+# DigitalMediaCW
 Second coursework for Digital Media and social networks, QMUL 2017
 
 Dataset location:
